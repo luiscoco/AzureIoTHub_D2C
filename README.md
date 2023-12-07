@@ -50,6 +50,10 @@ Run Visual Studio 2022 and follow these steps
 
 ![image](https://github.com/luiscoco/AzureIoTHub_D2C/assets/32194879/19868d8c-5de8-4611-968e-431158e2071e)
 
+Load with Nuget the library: **Microsoft.Azure.Devices.Client**
+
+![image](https://github.com/luiscoco/AzureIoTHub_D2C/assets/32194879/b47b6a43-66e3-415a-abb8-089a8beb50d7)
+
 # 2. Input the application source code
 
 ```csharp
