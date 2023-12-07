@@ -51,12 +51,7 @@ async Task SendMessageToIoTHubAsync(string message)
 }
 ```
 
-# 2. Build and Run the application
-
-
-
-
-# 3. Verify with Azure.IoT.Explorer
+# 2. Build and Run the application and Verify it with Azure.IoT.Explorer
 
 Donwload and install the Azure IoT Explorer: https://github.com/Azure/azure-iot-explorer
 
@@ -96,3 +91,9 @@ Now we can see the device option in the left menu
 We are going to test sending a message from the device to the cloud (D2C), for this purpose we select the **Telemetry** option in the left menu.
 
 ![image](https://github.com/luiscoco/AzureIoTHub_D2C/assets/32194879/abdd2a54-446d-4682-b0dd-62022c28ac06)
+
+![image](https://github.com/luiscoco/AzureIoTHub_D2C/assets/32194879/20b45185-c7f5-4fea-9ec1-65175ecc68ae)
+
+It is the time to start the C# console application to send a message from our application(our simulated device) to the Azure IoTHub
+
+![image](https://github.com/luiscoco/AzureIoTHub_D2C/assets/32194879/1f2a6981-8fb4-4e7f-aebe-233728b0a6e6)
