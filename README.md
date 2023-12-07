@@ -1,4 +1,10 @@
-# How to create a C# console .NET 8 application to send messages from D2C (from Device to Azure IoTHub)
+# How to create a  .NET 8 C# console application to send messages from D2C (from Device to Azure IoTHub)
+
+In this example we are going to create an application to simulate the Device. 
+
+From our application(Device) we will send a message to the Azure IoTHub
+
+For additional info about Azure IoTHub Getting Start tutorials see the references:
 
 https://github.com/Azure/azure-iot-explorer
 
