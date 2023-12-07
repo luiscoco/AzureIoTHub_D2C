@@ -58,10 +58,19 @@ async Task SendMessageToIoTHubAsync(string message)
 
 # 3. Verify with Azure.IoT.Explorer
 
-Donwload the Azure IoT Explorer
+Donwload and install the Azure IoT Explorer: https://github.com/Azure/azure-iot-explorer
+
+![image](https://github.com/luiscoco/AzureIoTHub_D2C/assets/32194879/1e67bdc1-883c-4ff2-98cd-7dc129b11597)
+
+Add a new Azure IoTHub connection in the Azure IoT Explorer
+
+![image](https://github.com/luiscoco/AzureIoTHub_D2C/assets/32194879/19592c7b-7f59-4d40-9b16-108f20c3d5f3)
 
 Navigate to the Azure IoTHub and copy the connection string 
 
+![image](https://github.com/luiscoco/AzureIoTHub_D2C/assets/32194879/ae04cfd8-0b77-4223-bbdf-b98bdd7c122e)
+
+![image](https://github.com/luiscoco/AzureIoTHub_D2C/assets/32194879/881aaeab-a48d-4e74-a71f-cb2ca1f71c66)
 
 Or get the connection string running this command
 
