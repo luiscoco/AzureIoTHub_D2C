@@ -38,7 +38,19 @@ Create a Device inside the previouly created Azure IoTHub
 
 ![image](https://github.com/luiscoco/AzureIoTHub_D2C/assets/32194879/82ba2fab-e5d5-41b0-897e-5cc2699b2209)
 
-# 1. Console application to send messages to Azure IoTHub
+# 1. Create a .NET 8 C# console application in Visual Studio 2022 Community Edition
+
+Run Visual Studio 2022 and follow these steps
+
+![image](https://github.com/luiscoco/AzureIoTHub_D2C/assets/32194879/f17c8fa8-e42f-4eca-9a72-233d67eecc91)
+
+![image](https://github.com/luiscoco/AzureIoTHub_D2C/assets/32194879/071815fd-51bc-4819-ac5f-af354dcbf484)
+
+![image](https://github.com/luiscoco/AzureIoTHub_D2C/assets/32194879/80159071-238b-4948-b453-a1a3c437afa4)
+
+![image](https://github.com/luiscoco/AzureIoTHub_D2C/assets/32194879/19868d8c-5de8-4611-968e-431158e2071e)
+
+# 2. Input the application source code
 
 ```csharp
 using Microsoft.Azure.Devices.Client;
@@ -71,7 +83,7 @@ async Task SendMessageToIoTHubAsync(string message)
 }
 ```
 
-# 2. Build and Run the application and Verify it with Azure.IoT.Explorer
+# 3. Build and Run the application and Verify it with Azure.IoT.Explorer
 
 Donwload and install the Azure IoT Explorer: https://github.com/Azure/azure-iot-explorer
 
