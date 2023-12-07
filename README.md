@@ -10,7 +10,23 @@ https://learn.microsoft.com/en-us/azure/iot-develop/quickstart-send-telemetry-io
 
 Create an Azure IoTHub
 
+![image](https://github.com/luiscoco/AzureIoTHub_D2C/assets/32194879/39b24370-db8e-4c4f-8721-aaf475990dcb)
+
+![image](https://github.com/luiscoco/AzureIoTHub_D2C/assets/32194879/592433a8-0271-4640-9792-ca1eb2d5f26b)
+
+![image](https://github.com/luiscoco/AzureIoTHub_D2C/assets/32194879/3fc5bec7-7ec5-4ede-98db-e56a4db24e97)
+
+![image](https://github.com/luiscoco/AzureIoTHub_D2C/assets/32194879/8b4279f1-ca67-4d31-8aa5-fba4bdbde8fd)
+
+![image](https://github.com/luiscoco/AzureIoTHub_D2C/assets/32194879/5655829e-266a-4ec1-aa47-34f64fbf5c31)
+
+![image](https://github.com/luiscoco/AzureIoTHub_D2C/assets/32194879/5b541440-3647-4957-aeb1-0ee199acff00)
+
+![image](https://github.com/luiscoco/AzureIoTHub_D2C/assets/32194879/fe203395-6363-41b7-b54a-0996afd623cd)
+
 Create a Device inside the previouly created Azure IoTHub
+
+
 
 # 1. Console application to send messages to Azure IoTHub
 
