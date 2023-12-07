@@ -26,7 +26,11 @@ Create an Azure IoTHub
 
 Create a Device inside the previouly created Azure IoTHub
 
+![image](https://github.com/luiscoco/AzureIoTHub_D2C/assets/32194879/4bdcdc94-9cf9-4ac1-8ebf-d7f4247b7182)
 
+![image](https://github.com/luiscoco/AzureIoTHub_D2C/assets/32194879/c40873c0-3e99-45e6-9984-963944752af9)
+
+![image](https://github.com/luiscoco/AzureIoTHub_D2C/assets/32194879/82ba2fab-e5d5-41b0-897e-5cc2699b2209)
 
 # 1. Console application to send messages to Azure IoTHub
 
