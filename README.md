@@ -12,12 +12,6 @@ Create an Azure IoTHub
 
 Create a Device inside the previouly created Azure IoTHub
 
-To get the Device connection string run this command
-
-```
-az iot hub connection-string show --hub-name myIoTHubname1974 --resource-group resourcegroup1
-```
-
 # 1. Console application to send messages to Azure IoTHub
 
 ```csharp
