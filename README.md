@@ -93,3 +93,6 @@ Now we can see the device option in the left menu
 
 ![image](https://github.com/luiscoco/AzureIoTHub_D2C/assets/32194879/c675b53d-8b33-4a3e-b1d8-40c7e4ef3c10)
 
+We are going to test sending a message from the device to the cloud (D2C), for this purpose we select the **Telemetry** option in the left menu.
+
+![image](https://github.com/luiscoco/AzureIoTHub_D2C/assets/32194879/abdd2a54-446d-4682-b0dd-62022c28ac06)
